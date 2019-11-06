@@ -3,3 +3,6 @@ Demo for git.
 Editing the file 
 
 This part could have been in this document part 1 
+
+Final version 
+
